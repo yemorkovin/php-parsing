@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rates>
+	<item>
+		<from>TINKUSDT</from>
+		<to>RUB</to>
+		<in>82.06</in>
+		<out>1</out>
+	</item>
+	<item>
+		<from>USDTTINK</from>
+		<to>RUB</to>
+		<in>1</in>
+		<out>82.06</out>
+	</item>
+	<item>
+		<from>SBERUSDT</from>
+		<to>RUB</to>
+		<in>82.00</in>
+		<out>1</out>
+	</item>
+	<item>
+		<from>USDTSBER</from>
+		<to>RUB</to>
+		<in>1</in>
+		<out>82.02</out>
+	</item>
+</rates>
